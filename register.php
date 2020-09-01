@@ -35,11 +35,11 @@ session_start();
 		<form method="post" action="notify.php">
 		  <div class="form-group">
 		    <label for="nome">Nome</label>
-		    <input type="text" class="form-control" id="nome" name="nome" placeholder="Gabriel Santos">
+		    <input type="text" class="form-control" id="nome" name="nome" placeholder="Jota">
 		  </div>
 		  <div class="form-group">
 		    <label for="email">Email address</label>
-		    <input type="email" class="form-control" id="email" name="email" placeholder="gabrielsantos@gmail.com">
+		    <input type="email" class="form-control" id="email" name="email" placeholder="joaomarcelinodev@gmail.com">
 		  </div>
 		  <div class="form-check">
 		    <input type="checkbox" class="form-check-input" id="info" name="check-input">
